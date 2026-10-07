@@ -1,0 +1,25 @@
+-------------------------
+Device ID: SwitchA
+Entry address(es):
+  IP address: 192.168.1.3
+Platform: cisco WS-C2960-24TT-L,  Capabilities: Switch IGMP
+Interface: Gi0/2,  Port ID (outgoing port): Gi0/1
+Holdtime : 132 sec
+
+Version :
+Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 15.0(2)SE11, RELEASE SOFTWARE (fc3)
+
+advertisement version: 2
+
+-------------------------
+Device ID: Camera-Floor2
+Entry address(es):
+  IP address: 192.168.1.50
+Platform: cisco CAM-IP-5MP,  Capabilities: Host
+Interface: Fa0/5,  Port ID (outgoing port): eth0
+Holdtime : 121 sec
+
+Version :
+Camera firmware 2.4.1
+
+advertisement version: 2

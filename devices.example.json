@@ -1,0 +1,1 @@
+{"devices":[{"device_type":"cisco_ios","host":"192.168.1.1","name":"edge-router-01"},{"device_type":"cisco_ios","host":"192.168.1.2","name":"core-switch-01"}]}

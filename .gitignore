@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+devices.json
+topology.json
+topology.dot
+topology-out/
+out/
+*.png
+*.svg
